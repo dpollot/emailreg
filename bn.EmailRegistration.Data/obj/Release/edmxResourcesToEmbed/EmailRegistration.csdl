@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="gappsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="EmailRegistration">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CurrentEmailAddress" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NewEmailAddress" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DateRegistered" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="IsOwner" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="gappsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="EmailRegistrations" EntityType="Self.EmailRegistration" />
+  </EntityContainer>
+</Schema>

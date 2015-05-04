@@ -1,0 +1,12 @@
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Release\bn.EmailRegistration.Common.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Release\bn.EmailRegistration.Common.pdb
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Release\Newtonsoft.Json.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Release\Newtonsoft.Json.xml
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\obj\Release\bn.EmailRegistration.Common.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\obj\Release\bn.EmailRegistration.Common.pdb
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Release\bn.EmailRegistration.Common.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Release\bn.EmailRegistration.Common.pdb
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Release\Newtonsoft.Json.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Release\Newtonsoft.Json.xml
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\obj\Release\bn.EmailRegistration.Common.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\obj\Release\bn.EmailRegistration.Common.pdb

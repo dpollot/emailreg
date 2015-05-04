@@ -1,0 +1,15 @@
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Debug\bn.EmailRegistration.Data.dll.config
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Debug\bn.EmailRegistration.Data.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Debug\bn.EmailRegistration.Data.pdb
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Debug\EntityFramework.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Debug\EntityFramework.xml
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\obj\Debug\bn.EmailRegistration.Data.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\obj\Debug\bn.EmailRegistration.Data.pdb
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Debug\bn.EmailRegistration.Data.dll.config
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Debug\bn.EmailRegistration.Data.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Debug\bn.EmailRegistration.Data.pdb
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\obj\Debug\bn.EmailRegistration.Data.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\obj\Debug\bn.EmailRegistration.Data.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\obj\Debug\bn.EmailRegistration.Data.pdb

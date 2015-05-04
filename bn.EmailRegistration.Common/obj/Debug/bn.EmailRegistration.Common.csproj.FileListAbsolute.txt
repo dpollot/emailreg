@@ -1,0 +1,13 @@
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Debug\bn.EmailRegistration.Common.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Debug\bn.EmailRegistration.Common.pdb
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Debug\Newtonsoft.Json.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Debug\Newtonsoft.Json.xml
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\obj\Debug\bn.EmailRegistration.Common.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\obj\Debug\bn.EmailRegistration.Common.pdb
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Debug\bn.EmailRegistration.Common.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Debug\bn.EmailRegistration.Common.pdb
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Debug\Newtonsoft.Json.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\bin\Debug\Newtonsoft.Json.xml
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\obj\Debug\bn.EmailRegistration.Common.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\obj\Debug\bn.EmailRegistration.Common.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Common\obj\Debug\bn.EmailRegistration.Common.pdb

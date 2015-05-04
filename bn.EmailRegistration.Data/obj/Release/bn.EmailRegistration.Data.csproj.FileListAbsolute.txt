@@ -1,0 +1,14 @@
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Release\bn.EmailRegistration.Data.dll.config
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Release\bn.EmailRegistration.Data.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Release\bn.EmailRegistration.Data.pdb
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Release\EntityFramework.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Release\EntityFramework.xml
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\obj\Release\bn.EmailRegistration.Data.dll
+Z:\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\obj\Release\bn.EmailRegistration.Data.pdb
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Release\bn.EmailRegistration.Data.dll.config
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Release\bn.EmailRegistration.Data.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Release\bn.EmailRegistration.Data.pdb
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Release\EntityFramework.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\bin\Release\EntityFramework.xml
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\obj\Release\bn.EmailRegistration.Data.dll
+\\psf\Home\Documents\workspaces\prototype\Garsin\Email\bn.EmailRegistration\bn.EmailRegistration.Data\obj\Release\bn.EmailRegistration.Data.pdb
